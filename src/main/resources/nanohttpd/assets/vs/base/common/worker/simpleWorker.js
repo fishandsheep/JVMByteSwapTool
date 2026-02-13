@@ -1,0 +1,1 @@
+Couldn't find the requested file /min/vs/base/common/worker/simpleWorker.js in monaco-editor.

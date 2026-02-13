@@ -1,0 +1,1 @@
+Couldn't find the requested file /min/vs/base/common/lifecycle.js in monaco-editor.

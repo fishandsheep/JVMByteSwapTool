@@ -1,0 +1,1 @@
+Couldn't find the requested file /min/vs/base/common/worker/workerServer.js in monaco-editor.

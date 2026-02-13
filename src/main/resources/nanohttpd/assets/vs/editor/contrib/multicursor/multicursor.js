@@ -1,0 +1,1 @@
+Couldn't find the requested file /min/vs/editor/contrib/multicursor/multicursor.js in monaco-editor.

@@ -1,0 +1,1 @@
+Couldn't find the requested file /min/vs/editor/contrib/caretOperations/caretOperations.js in monaco-editor.

@@ -1,0 +1,1 @@
+Couldn't find the requested file /min/vs/base/common/platform.js in monaco-editor.

@@ -1,0 +1,1 @@
+Couldn't find the requested file /min/vs/editor/contrib/folding/foldingDecorationProvider.js in monaco-editor.

@@ -1,0 +1,1 @@
+Couldn't find the requested file /min/vs/editor/contrib/find/findController.js in monaco-editor.
